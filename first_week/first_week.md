@@ -110,5 +110,13 @@ LIMIT 1;
 
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/1d7c2a99-f372-40e0-b978-acafd9951127" />
 
+Question 7. Terraform Workflow
+
+answer: terraform init, terraform apply -auto-approve, terraform destroy
+
+![image](https://github.com/user-attachments/assets/862dcca0-ea68-41a8-a43c-eab04f4fe539)
+
+![image](https://github.com/user-attachments/assets/e79562ec-3ed0-4689-92be-45a33a63fe76)
+
 
 
