@@ -67,7 +67,9 @@ where trip_distance > 10
 
 **Question 4. Longest trip for each day**
 
-answer = -- Longest distnance in one trip
+answer = 2019-10-31
+
+-- Longest distnance in one trip
 select * from green_taxi_trips where (select max(trip_distance) from green_taxi_trips ) = trip_distance;
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/5f22e2bc-6f8d-415f-86b8-a7f7e1fef23a" />
