@@ -107,3 +107,8 @@ AND tzl_pickup."Zone" = 'East Harlem North'
 GROUP BY tzl_dropoff."Zone"
 ORDER BY largest_tip_amount DESC
 LIMIT 1;
+
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/1d7c2a99-f372-40e0-b978-acafd9951127" />
+
+
+
